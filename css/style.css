@@ -1,16 +1,18 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #a1a1a1;
+  color: #000000;
 }
 
 nav {
   background-color: rgba(0,0,0,.5);
   float: left;
+  font-size:
   position: fixed;
   width: 100%;
 }
 
 .logo {
+  font-size:
   margin: 20px;
   width: 100px;
 }
@@ -43,10 +45,24 @@ li {
 }
 
 article {
+  font-size: 16px;
   padding-top: 100px;
+  line-height: 1.5em;
 }
 
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+h1 {
+font-size: 2em;
+}
+
+h3 {
+font-size: 1.3em;
+}
+
+.story-text {
+margin: ;
 }
